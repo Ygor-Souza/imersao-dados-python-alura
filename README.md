@@ -1,5 +1,7 @@
 # Imersão Dados com Python - Dashboard Interativo
 
+🔗 **Projeto online:** [Acessar aplicação Streamlit](https://imersao-dados-python-alura-2025-ygor.streamlit.app/)
+
 ## Descrição
 
 Este projeto é um dashboard interativo desenvolvido durante a Imersão de Dados com Python da Alura. O objetivo é analisar dados salariais na área de dados, permitindo que os usuários filtrem informações por ano, tipo de contrato e senioridade.
